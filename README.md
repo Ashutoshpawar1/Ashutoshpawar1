@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Ashutoshpawar1
 - 👀 I’m currently working on Flutter(@MobileAppDev)
 - 🌱 I’m currently learning ...
-- ✍🏻 Created several projects based on HTML, CSS , Flutter
+- ✍🏻 Created several projects based on HTML, CSS , Flutter , python
 - 📫 How to reach me : ashutoshgarge123@gmail.com
 - ⚡ Fun fact: Coding❤️
 
