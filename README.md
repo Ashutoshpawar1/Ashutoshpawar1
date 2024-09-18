@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @Ashutoshpawar1
 - 👀 I’m currently working on Flutter(@MobileAppDev)
-- 🌱 I’m currently learning ...
-- ✍🏻 Created several projects based on HTML, CSS , Flutter , python
+- 🌱 I’m currently learning ......................♾️
+- ✍🏻 Created several projects based on HTML, CSS , Flutter , Python
 - 📫 How to reach me : ashutoshgarge123@gmail.com
-- ⚡ Fun fact: Coding❤️
+- ⚡ Fun fact: Coding❤️Chess❤️Cricket 
 
 <!---
 Ashutoshpawar1/Ashutoshpawar1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
