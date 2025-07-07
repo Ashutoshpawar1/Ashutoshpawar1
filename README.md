@@ -1,7 +1,8 @@
 - 🙏 Hi, I’m @Ashutoshpawar1
 - 👀 I’m currently working on Flutter(@MobileAppDev)
-- 🌱 I’m currently learning ......................♾️
+- 🌱 I’m currently learning ..Nodejs, Firebase  ♾️
 - ✍🏻 Created several projects based on HTML, CSS , Flutter , Python
+- 👨‍💻 Flutter (Andoird/Ios), Api integration , Firebase ,SQL 
 - 📫 How to reach me : ashutoshgarge123@gmail.com
 - ⚡ Fun fact: ❤️Coding❤️Chess❤️Cricket 
 
