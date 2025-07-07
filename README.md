@@ -2,7 +2,7 @@
 - 👀 I’m currently working on Flutter(@MobileAppDev)
 - 🌱 I’m currently learning ..Nodejs, Firebase  ♾️
 - ✍🏻 Created several projects based on HTML, CSS , Flutter , Python
-- 👨‍💻 Flutter (Andoird/Ios), Api integration , Firebase ,SQL 
+- 👨‍💻 Flutter (Andoird/Ios), Api integration , Firebase ,SQL , Git , State management (Getx) , Goroutes
 - 📫 How to reach me : ashutoshgarge123@gmail.com
 - ⚡ Fun fact: ❤️Coding❤️Chess❤️Cricket 
 
