@@ -1,122 +1,185 @@
-<div align="center">
+::: {align="center"}
+`<img src="./assets/hero.svg" width="100%" alt="Ashutosh Garge — Flutter Developer" />`{=html}
 
-<img src="https://raw.githubusercontent.com/Kirokaze/Pixel-Art/master/Coding.gif" width="100%" alt="Animated pixel-art coding banner" />
+`<br/>`{=html}
 
-# `> HELLO, WORLD!` 👋
+`<a href="https://ashutosh-portfolio-rho.vercel.app">`{=html}`<img src="https://img.shields.io/badge/PORTFOLIO-EXPLORE-059669?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>`{=html}`</a>`{=html}
+`<a href="https://www.linkedin.com/in/ashutosh-garge-3037a5240">`{=html}`<img src="https://img.shields.io/badge/LINKEDIN-CONNECT-334155?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>`{=html}`</a>`{=html}
+`<a href="mailto:ashutoshgarge123@gmail.com">`{=html}`<img src="https://img.shields.io/badge/EMAIL-SAY_HELLO-475569?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>`{=html}`</a>`{=html}
 
-### **ASHUTOSH GARGE** · Flutter Developer · Android & iOS · Real-Time Apps
+`<br/>`{=html}
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=35F2A5&center=true&vCenter=true&width=720&lines=Building+polished+Flutter+experiences;Turning+ideas+into+Android+%26+iOS+apps;Firebase+%7C+REST+APIs+%7C+Real-time+systems;Always+learning.+Always+shipping." alt="Animated typing introduction" />
+`<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=18&duration=2800&pause=900&color=059669&center=true&vCenter=true&width=720&lines=Building+polished+Flutter+experiences;Android+%26+iOS+%7C+Firebase+%7C+REST+APIs;Real-time+features+%7C+Clean+architecture;Build.+Ship.+Improve.+Repeat." alt="Animated developer introduction" />`{=html}
+:::
 
-[![Flutter](https://img.shields.io/badge/Flutter-Mobile%20Development-02569B?style=for-the-badge&logo=flutter&logoColor=white)](https://flutter.dev/)
-[![Dart](https://img.shields.io/badge/Dart-Primary%20Language-0175C2?style=for-the-badge&logo=dart&logoColor=white)](https://dart.dev/)
-[![India](https://img.shields.io/badge/Based%20in-Indore%2C%20India-17B978?style=for-the-badge&logo=googlemaps&logoColor=white)](https://maps.google.com/?q=Indore,Madhya+Pradesh,India)
+------------------------------------------------------------------------
 
-</div>
+## `01` --- ABOUT
 
-```text
-┌─[ashutosh@mobile-dev]─[~/build]
-└──╼ $ flutter build experiences --platforms android,ios
-     ▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓▓ 100%  shipped with care 🚀
+Flutter developer based in **Indore, India**, focused on crafting
+responsive Android and iOS applications.
+
+-   **Focus:** Flutter UI, app architecture, API integrations and
+    real-time features.
+-   **Build style:** Clean, maintainable and user-focused.
+-   **Outside work:** Sketching, chess and cricket.
+
+## `02` --- TECH STACK
+
+::: {align="center"}
+`<img src="https://skillicons.dev/icons?i=flutter,dart,firebase,android,apple,python,fastapi,sqlite,git,github,postman,figma,vscode&theme=light" alt="Technology stack icons" />`{=html}
+:::
+
+  -----------------------------------------------------------------------
+  Area                                Tools & technologies
+  ----------------------------------- -----------------------------------
+  **Mobile**                          Flutter, Dart, Android, iOS,
+                                      responsive UI
+
+  **State management**                GetX, Riverpod, BLoC
+
+  **Backend & cloud**                 Firebase, REST APIs, FastAPI,
+                                      Python
+
+  **Real-time & integrations**        Socket.IO, WebSockets, Google Maps,
+                                      push notifications
+
+  **Payments & data**                 Stripe, Dio, JSON, SQLite,
+                                      SharedPreferences
+
+  **UI & delivery**                   Figma, Syncfusion, fl_chart,
+                                      Shorebird, GitHub Actions
+  -----------------------------------------------------------------------
+
+## `03` --- FEATURED PROJECTS
+
+```{=html}
+<table>
 ```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🛍️ Jayhazmat
 
-## `01 / ABOUT ME`
+**E-Commerce · Mobile**
 
-I’m a **Flutter and mobile application developer** from Indore, India. I build cross-platform Android and iOS apps with a focus on polished interfaces, maintainable architecture, reliable integrations, and real-time experiences. I enjoy taking products from an idea to a thoughtful, user-ready mobile experience.
+Shopping app with authentication, product management, cart, checkout and
+Stripe payment integration.
 
-- 📍 Indore, Madhya Pradesh, India
-- 📱 Flutter developer for Android and iOS
-- ⚡ Interested in UI craft, real-time apps, backend integrations, and practical AI-powered products
-- ♟️ Outside of code: sketching, chess, and cricket
+`Flutter` `Firebase` `REST API` `Stripe` `GetX`
 
-## `02 / TOOLKIT`
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### ✨ LifeVibe AI
 
-**Flutter & UI**  
-Flutter · Dart · Android · iOS · Responsive and pixel-perfect UI · Custom widgets · Cupertino · Custom animations
+**Health & Nutrition · AI**
 
-**State management**  
-GetX · Riverpod · BLoC
+Food-image analysis, nutrition insights and personalized recommendations
+with a FastAPI backend.
 
-**Backend & cloud**  
-Firebase Authentication · Firebase Storage · FastAPI · Python · SQL · MongoDB
-
-**APIs & real-time integrations**  
-REST APIs · Dio · HTTP · JSON parsing · Google Maps · Socket.IO · WebSockets · Push notifications
-
-**Localization, charts & storage**  
-Flutter localization · Multilingual apps · Syncfusion · fl_chart · SharedPreferences · SQLite
-
-**Architecture, delivery & developer tools**  
-Clean Architecture · Google Play Console · App Store Connect · Android/iOS deployment · Shorebird · GitHub Actions · CI/CD · Vercel · VS Code · Android Studio · Xcode · Git · GitHub · Postman · Figma
-
-**AI-assisted development**  
-Cursor · Windsurf · Antigravity · Codex · ChatGPT · Claude · Gemini
-
-## `03 / SELECTED PROJECTS`
-
-### Jayhazmat — E-Commerce Application
-**Mobile · Android & iOS**  
-A shopping experience with authentication, product management, cart, checkout, and Stripe payments. Integrated REST APIs and Firebase, with GetX for state management.  
-`Flutter` `Firebase` `REST APIs` `Stripe` `GetX`
-
-### LifeVibe — AI Health & Nutrition Platform
-**Mobile · Healthcare & nutrition**  
-An AI-powered nutrition app concept for food-image analysis and nutritional insights, with a FastAPI backend and AI-assisted personalized recommendations.  
 `Flutter` `Firebase` `FastAPI` `Gemini` `Ollama`
 
-### MakeItHappn — Event Planning Application
-**Mobile · Event management**  
-An event-planning app for creating events, proposing dates, and voting on the best schedule, integrated with Firebase and REST APIs.  
-`Flutter` `Firebase` `REST APIs` `GetX`
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 📅 MakeItHappn
 
-### ASRI — Logistics Marketplace
-**Mobile · Logistics**  
-A multilingual logistics app for truck bidding, booking management, and real-time communication.  
-`Flutter` `REST APIs` `Socket.IO` `Localization`
+**Event Management · Mobile**
 
-### Shelter App — Animal Rescue Platform
-**Mobile · Animal rescue**  
-A location-based platform for reporting injured animals and supporting rescue efforts.
+Create events, suggest dates and vote on the best schedule.
 
-> Google Play and App Store listing URLs weren’t included in the project details, so I’ve left store links out rather than guessing. Send the direct listing URLs and I can add verified badges to the relevant projects.
+`Flutter` `Firebase` `REST API` `GetX`
 
-## `04 / EXPERIENCE & EDUCATION`
+```{=html}
+</td>
+```
+```{=html}
+<td width="50%" valign="top">
+```
+### 🚚 ASRI --- Logistics
 
-**B.Tech** · Malwa Institute of Technology, Indore (RGPV) · 2022 · CGPA 7.7  
-**Higher Secondary (12th)** · MP Board · 2018 · 69.8%  
-Little Step English/Hindi H.S. School, Borgaon, Chhindwara  
-**High School (10th)** · MP Board · 2016 · 78%  
-Little Step English/Hindi H.S. School, Borgaon, Chhindwara  
-**Certification:** Python (Basic) — HackerRank
+**Logistics Marketplace · Mobile**
 
-## `05 / FIND ME`
+Multilingual truck bidding, booking management and real-time
+communication.
 
-<div>
+`Flutter` `REST API` `Socket.IO` `Localization`
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20site-35F2A5?style=for-the-badge&logo=vercel&logoColor=black)](https://ashutosh-portfolio-rho.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ashutosh-garge-3037a5240)
-[![Medium](https://img.shields.io/badge/Medium-Read%20my%20writing-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com)
-[![Email](https://img.shields.io/badge/Email-Say%20hello-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ashutoshgarge123@gmail.com)
-[![Phone](https://img.shields.io/badge/Phone-%2B91%2091312%2046012-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+919131246012)
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+<tr>
+```
+```{=html}
+<td colspan="2" valign="top">
+```
+### 🐾 Shelter App
 
-</div>
+**Animal Rescue · Mobile**
 
-## `06 / GITHUB SIGNAL`
+Location-based animal rescue platform for reporting injured animals,
+sharing locations and coordinating rescue efforts.
 
-<div align="center">
+`Flutter` `Firebase` `Google Maps` `FCM`
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Ashutoshpawar1&show_icons=true&hide_border=true&bg_color=0D1117&title_color=35F2A5&icon_color=35F2A5&text_color=C9D1D9&rank_icon=github" alt="Ashutosh's GitHub statistics" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutoshpawar1&layout=compact&hide_border=true&bg_color=0D1117&title_color=35F2A5&text_color=C9D1D9" alt="Most used languages" />
+```{=html}
+</td>
+```
+```{=html}
+</tr>
+```
+```{=html}
+</table>
+```
+## `04` --- EXPERIENCE & EDUCATION
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutoshpawar1&hide_border=true&background=0D1117&ring=35F2A5&fire=35F2A5&currStreakLabel=35F2A5&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+**B.Tech --- Electrical & Electronics Engineering**\
+Malwa Institute of Technology, Indore · RGPV · 2022 · **CGPA 7.7**
 
-</div>
+**Certification:** Python (Basic) --- HackerRank
 
----
+## `05` --- GITHUB ACTIVITY
 
-<div align="center">
+::: {align="center"}
+`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Ashutoshpawar1&show_icons=true&hide_border=true&bg_color=EEF1F4&title_color=047857&icon_color=059669&text_color=334155&rank_icon=github" alt="GitHub statistics" />`{=html}
+`<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ashutoshpawar1&layout=compact&hide_border=true&bg_color=EEF1F4&title_color=047857&text_color=334155" alt="Most used languages" />`{=html}
 
-**Have an idea for a mobile app? Let’s build something useful.**  
-`Flutter` · `Dart` · `Firebase` · `APIs` · `Real-time`
+`<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=Ashutoshpawar1&hide_border=true&background=EEF1F4&ring=059669&fire=059669&currStreakLabel=047857&sideLabels=334155&dates=64748B" alt="GitHub contribution streak" />`{=html}
 
-</div>
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=Ashutoshpawar1&bg_color=EEF1F4&color=334155&line=059669&point=047857&area=true&hide_border=true" width="100%" alt="Contribution activity graph" />`{=html}
+:::
+
+## `06` --- LET'S CONNECT
+
+::: {align="center"}
+**Have a product idea or a Flutter opportunity? Let's talk.**
+
+`<a href="https://ashutosh-portfolio-rho.vercel.app">`{=html}Portfolio`</a>`{=html}
+ · 
+`<a href="https://www.linkedin.com/in/ashutosh-garge-3037a5240">`{=html}LinkedIn`</a>`{=html}
+ · 
+`<a href="mailto:ashutoshgarge123@gmail.com">`{=html}Email`</a>`{=html}
+
+`<sub>`{=html}Designed with focus. Built with Flutter. Shipped with
+care.`</sub>`{=html}
+:::
